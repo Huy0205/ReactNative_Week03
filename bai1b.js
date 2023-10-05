@@ -78,19 +78,19 @@ const styles = StyleSheet.create({
     justifyContent: "space-around",
   },
 
-  inputView4:{
+  inputView4: {
     flex: 1,
     flexDirection: "row",
     alignItems: "center",
     backgroundColor: "#C4C4C4",
-    height:50,
+    height: 50,
     marginBottom: 45,
   },
 
   input: {
     flex: 1,
     lineHeight: 40,
-    height: '100%',
+    height: "100%",
     fontFamily: "Roboto",
     fontSize: 15,
     fontWeight: 400,
